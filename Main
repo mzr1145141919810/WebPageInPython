@@ -216,7 +216,7 @@ def page4():
 
 def page5():
     """计算器"""
-    st.write()
+    st.write(“”)
 
 
 if page == '兴趣推荐':
